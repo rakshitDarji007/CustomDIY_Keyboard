@@ -1,6 +1,6 @@
 ---
-title: "Your Project Name"
-author: "Your name (name or slack username)"
-description: "Describe your project in a short sentence!"
-created_at: "2024-03-20"
+title: Custom DIY Keyboard
+author: @ORION
+description: Documenting my journey of making a custom DIY Keyboard
+created_at: "2025-06-10"
 ---
