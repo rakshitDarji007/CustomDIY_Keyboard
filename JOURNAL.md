@@ -1,6 +1,6 @@
 ---
-title: "Custom DIY Keyboard"
-author: "@ORION"
-description: "Documenting my journey of making a custom DIY Keyboard"
-created_at: "2025-06-10"
+Title: "Custom DIY Keyboard"
+Author: "@ORION"
+Description: "Documenting my journey of making a custom DIY Keyboard"
+Created_at: "2025-06-10"
 ---
