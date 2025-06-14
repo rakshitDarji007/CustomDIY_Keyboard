@@ -10,7 +10,7 @@ Created_at: "2025-06-10"
 # June 11: Github Setup!
 Setup up the github for the DIY Custom keyboard, So I can document my progress
 
-## Total Time Spent: N/A
+### Total Time Spent: N/A
 
 # June 12: Learning Keyboard Schematics and Core functionality
 
@@ -21,4 +21,4 @@ After learning about the schematics, I started making a list of things that I wa
 
 Tomorrow I will get started on the schematic and hopefully finish!
 
-## Total Time Spent: 2 Hours
+### Total Time Spent: 2 Hours
