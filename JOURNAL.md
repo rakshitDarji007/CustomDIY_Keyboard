@@ -41,5 +41,27 @@ Moving on, I ran the footprint assingment tool and assigned the footprints but a
 After fixing the the footprint problems, I moved on to the PCB editor, then imported the PCB from the schematic and it imported with 0 errors!.
 ![pcb_editor_image](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-13%20175918.png)
 
-### Time Spent(Current Session): 4.5 Hours
+### Time Spent(This Session): 4.5 Hours
 ### Total Time Spent: 6.5 Hours
+
+
+# June 14: Finished Routing the PCB
+
+Today I started working on the PCB Editor, so I first I Updated the PCB from the schematic
+![pcb1_image](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Screenshot%202025-06-13%20175918.png)
+
+After Updating the PCB from the schematic, I decided to work on arranging the switches in the their proper position and changing the footprint for the shift, enter, and the spacebar keys to match its proper footprint because at the start I just assigned the "MX_1.00U" for every switch.
+Proper Assorted Switchs in PCB Editor
+![pcb_assorted_switches](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-14%20092450.png)
+
+After Arranging the switches properly, I added diodes to every switches to have a keyboard with anti-ghosting keys(N-Key Rollover)
+![diode_added](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-14%20114552.png)
+
+After adding the diodes to prevent ghosting while typing, I moved on to add the board, oled displays(2 of them)(changed my mind and now Using 2 of them), and 1 Rotary Encoder to the layout of the PCB. After properly laying out the parts as I wanted them, I routed the traces(which was a nightmare, I had to reroute like a million times😭😭).
+![PCB_routed](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-14%20163546.png)
+
+That was basically what I did today.
+Cya Tomorrow!
+
+### Time Spent(Current Session): 4 Hours
+### Total Time Spent: 10.5 Hours
