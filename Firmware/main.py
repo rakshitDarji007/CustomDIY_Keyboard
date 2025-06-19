@@ -12,3 +12,8 @@ from adafruit_hid.consumer_control_code import ConsumerControlCode
 import adafruit_ssd1306
 from adafruit_display_text import label
 import terminalio
+
+row_pins = [
+    board.GP8, board.GP9, board.GP10, board.GP11, board.GP12, board.GP13,
+    board.GP14, board.GP15
+]
