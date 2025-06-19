@@ -65,3 +65,16 @@ Cya Tomorrow!
 
 ### Time Spent(Current Session): 4 Hours
 ### Total Time Spent: 10.5 Hours
+
+
+# June 16: Finished the PCB and added 3D Models
+
+Today I finished the PCB completely and also added a copper filled zone
+![cu_filled](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-17%20193608.png)
+
+After adding the filed zone to the PCB, I moved on to adding the 3D Models in to the footprints to get a better view of the PCB and make it eaiser to design the Case later on.
+For adding the 3d models, I have to go to grabcad and find each 3d model and manually upload it, which took forever.
+![3d_models](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-17%20200902.png)
+
+### Time Spent(Current Session): 2 Hours
+### Total Time Spent: 12.5 Hours
