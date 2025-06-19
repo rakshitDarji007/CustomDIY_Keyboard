@@ -98,5 +98,14 @@ and at first, because i didnt have the measurements for the OLED screen, the scr
 ![](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-18%20093838.png)
 
 
-### Time Spent(Current Session): 6.5
+### Time Spent(Current Session): 6.5 Hours
 ### Total Time Spent: 18.5 Hours
+
+
+# June 18: Finished CAD
+
+Today, I just made some tiny adjustments to the the placements of the oled screen and the rotary encoder holes so they match up more accurately and I also added holes to the top layer of the case which I forgot to add yesterday
+![finished_toop_layer](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-19%20000841.png)
+
+### Time Spent(Current Session): 0.5 Hours
+### Total Time Spent: 19 Hours
