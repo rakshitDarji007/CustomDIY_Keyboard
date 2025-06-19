@@ -78,3 +78,25 @@ For adding the 3d models, I have to go to grabcad and find each 3d model and man
 
 ### Time Spent(Current Session): 2 Hours
 ### Total Time Spent: 12.5 Hours
+
+
+# June 17: CAD!!!
+
+Today, I Started working on the CAD for the keyboard and first I started by sketching out the base of the keyboard
+![base](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-18%20200857.png)
+
+After the sketching the of the keyboard base was done I extruded it and added the 3D model of the PCB to check if it fits properly, and the PCB fit perfectly in the bottom case
+![bottomfit](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-18%20002735.png)
+
+After seeing that my PCB was properly fitting in the bottom section, I moved on to working on the top layer of the case for the keyboard which would have the holes for the OLED screens, switches, and the rotary encoder and then I extruded it to 1.5mm to make the top layer of the keyboard!
+![](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-18%20020002.png)
+![](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-18%20093947.png)
+
+
+After successfully making the bottom and the top layer of the keyboard case, I decided to check if it fits properly 
+and at first, because i didnt have the measurements for the OLED screen, the screens and the rotary encoder were not aligned and I had to align it properly. After the alignment everything fit together relatively well.
+![](https://github.com/rakshitDarji007/CustomDIY_Keyboard/blob/main/Images/Screenshot%202025-06-18%20093838.png)
+
+
+### Time Spent(Current Session): 6.5
+### Total Time Spent: 18.5 Hours
